@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import brochurePdf from "../assets/Placement_brochure.pdf";
+import prospectus from "../assets/Mount-Kenya-University-Prospectus-2023.pdf";
 import jnf from "../assets/JNF 2022-23 IIIT Lucknow.docx";
-import kushal from "../assets/team22/kushal.jpeg";
+import james from "../assets/team22/james.jpeg";
 import anu from "../assets/team22/anu.jpg";
 
 const footer = () => {
@@ -14,31 +14,31 @@ const footer = () => {
             <div className="footer-col">
               <h2>Contact Us</h2>
               <p>
-                IIIT Lucknow
+                MKU ICT
                 <br />
-                Chak Ganjaria, C. G. City
+                KIAMBU
                 <br />
-                Lucknow – 226002
+                THIKA
               </p>
               <p>
-                <a href="mailto:placements@iiitl.ac.in">
-                  placements@iiitl.ac.in
+                <a href="mailto:musyokajames430@gmail.com">
+                musyokajames430@gmail.com
                 </a>
               </p>
             </div>
             <div className="footer-col-parent">
-              <a href="https://www.linkedin.com/in/kushal-reddy-3101231b5/?originalSubdomain=in" target="_blank" rel="noopener noreferrer">
-                <img src={kushal} alt={"kushal"} className="footer-img"/>
+              <a href="https://www.linkedin.com/in/james-musyoka-b33944225/" target="_blank">
+                <img src={james} alt={"james"} className="footer-img"/>
               </a>
               <div className="footer-col">
-                <p className="footer-contact-name">R. Kushal Reddy</p>
+                <p className="footer-contact-name">JAMES MUSYOKA</p>
                 <p className="footer-contact-position">Overall Placement Coordinator</p>
                 <p>
-                  <a href="tel:+91-8094123615">+91-9059110999</a>
+                  <a href="tel:+91-8094123615">+254 714 427 473</a>
                 </p>
                 <p> 
-                  <a href="mailto:placements@iiitl.ac.in">
-                    placements@iiitl.ac.in
+                  <a href="mailto:placements@mku.ac.ke">
+                    placements@mku.ac.ke
                   </a>
                 </p>
               </div>
@@ -48,14 +48,14 @@ const footer = () => {
               <img src={anu} alt={"anu"} className="footer-img"/>
               </a>
               <div className="footer-col">
-                <p className="footer-contact-name">Anu Kumari</p>
+                <p className="footer-contact-name">Ann Kimani</p>
                 <p className="footer-contact-position">Placement Executive</p>
                 <p>
-                  <a href="tel:+91-8094123615">+91-9324121272</a>
+                  <a href="tel:2547324121272">+2547324121272</a>
                 </p>
                 <p> 
-                  <a href="mailto:placements@iiitl.ac.in">
-                    placements@iiitl.ac.in
+                  <a href="mailto:placements@mku.ac.ke">
+                    placements@mku.ac.ke
                   </a>
                 </p>
               </div>
@@ -64,15 +64,15 @@ const footer = () => {
               <h2>Links</h2>
               <p>
                 <a
-                  href="https://www.ncs.gov.in/Pages/default.aspx"
-                  target="blank"
+                  href="https://www.myjobsinkenya.com/"
+                  target="none"
                 >
                   National Career Service
                 </a>
               </p>
               <p>
-                <a href={brochurePdf} target="blank">
-                  Brochure
+                <a href={prospectus} target="blank">
+                  Prospectus
                 </a>
               </p>
               <p>
@@ -96,31 +96,31 @@ const footer = () => {
 
       <div className="footer-copyright">
         <p>
-          ALL RIGHTS RESERVED © 2021. <strong>IIIT LUCKNOW.</strong> (Developed
+          ALL RIGHTS RESERVED © 2023. <strong>MKU THIKA.</strong> (Developed
           & Managed By -{" "}
-          <a href="https://www.linkedin.com/in/blurry-x-face/" target="none">
-            Rishabh
+          <a href="https://www.linkedin.com/in/james-musyoka-b33944225/" target="none">
+            JAMES
           </a>
           , {" "}
            <a
             href="https://www.linkedin.com/in/narendra-singh-139b5219a/"
             target="none"
           >
-            Narendra 
+            MUSYOKA 
           </a>, {" "}
            <a
             href="https://www.linkedin.com/in/harshdeep-061661193/x"
             target="none"
           >
-            Harshdeep
+            JOHN
           </a>
           ,{"  "}
           <a href="https://www.linkedin.com/in/vinamrbajaj/" target="none">
-            Vinamr 
+            ANN
           </a>
           , {" "}
           <a href="https://www.linkedin.com/in/rktejesh/" target="none">
-            Tejesh 
+            WINNIE
           </a>
           )
         </p>

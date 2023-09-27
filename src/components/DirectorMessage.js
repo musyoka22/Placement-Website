@@ -6,14 +6,14 @@ const MessageD = props => (
 
     <p className="msgp">
       Evolving a brand-name takes years of nurturing, hard work and passion.
-      IIIT Lucknow, which started its journey in 2015, has brought in the
+      MKU, which started its journey in 2015, has brought in the
       culture of innovation among its students. These students have received
       training that is ‘deep in depth’, yet ‘wide in breadth’. Such training has
       moulded them into better qualified professionals.
     </p>
     <br />
     <p className="msgp">
-      At the Indian Institute of Information Technology Lucknow, we are
+      At the MOUNT KENYA UNIVERSITY, we are
       committed to playing a key role in creating an ambience for the creation
       of new ideas, knowledge and graduates who will be tech-leaders of
       tomorrow.
@@ -36,9 +36,9 @@ const MessageD = props => (
       on any platform and do justice to the trust placed on them.
     </p>
     <br />
-    <p className="cred">Dr. Arun Mohan Sherry</p>
+    <p className="cred">Prof Githu Muchiri</p>
     <p className="cred" style={{ marginBottom: "2vw" }}>
-      Director, IIIT Luckow
+      Director, MKU Thika
     </p>
   </div>
 );

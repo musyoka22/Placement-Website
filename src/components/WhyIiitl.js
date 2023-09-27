@@ -5,14 +5,12 @@ const Why = (props) => {
   return (
     <div className="whyus-o-container">
       <div className="whyus-container">
-        <h1 className="whyus-h1">Why Recruit at IIITL?</h1>
+        <h1 className="whyus-h1">Why Recruit at MKU?</h1>
         <p>
-          <strong>IIIT, Lucknow</strong> encourages its students to balance
+          <strong>MKU , THIKA</strong> encourages its students to balance
           their academics and co-curricular activities. This allows for an
           all-round development, as evidenced by the numerous projects
-          undertaken and the participation in sports and cultural events. This
-          is evident from the wide repertoire of projects that they have done as
-          well as their participation in sports and cultural events.
+          undertaken and the participation in sports and cultural events.
         </p>
         <p>
           The institute also encourages the students to showcase their research
@@ -25,7 +23,7 @@ const Why = (props) => {
         <p>
           The Courses are finely refined and fabricated to meet the needs of the
           versatile industry and latest research areas. The highly qualified,
-          intellectual and technically proficient faculty at IIIT-Lucknow fuel
+          intellectual and technically proficient faculty at MKU fuel
           the learning process in turn igniting the minds.
         </p>
         <p>
@@ -33,14 +31,12 @@ const Why = (props) => {
         </p>
         <h2>Admission Criteria</h2>
         <p>
-          B.Tech Entrance at IIIT Lucknow is based on JEE Mains score. As the
-          students are admitted through the esteemed JEE Mains and represents
-          the top 2% of the candidates that appear for the exam nationwide, they
-          are handpicked from the garden of knowledge and critical thinking.{" "}
+          B.Tech Entrance at MKU is based on KCSE score. Students who have
+           attained a MEAN grade of C+ and above are eligible to join us.{" "}
         </p>
         <p>
-          Admissions to M.Tech program is made throuh Graduate Aptitude Test
-          Engineering (GATE) and Centralized Couselling for M.Tech (CCMT).
+          Admissions to M.Tech program is made through a review by the
+           university senate of the students' willingness and performance in the B. Tech.
         </p>
         <p>
           These students are enriched with both qualitative and quantitative
@@ -55,7 +51,7 @@ const Why = (props) => {
         <h2>Faculty</h2>
         <p>
           Our faculty can be compared favorably with the best in the country.
-          All regular faculty members of the IIIT Lucknow, hold Ph.D. and have
+          All regular faculty members of the MKU, hold Ph.D. and have
           good teaching skills.
         </p>
         <p>
@@ -79,11 +75,11 @@ const Why = (props) => {
         <h2>Coders At Work</h2>
         <p>
           Our students take part in many renowned programming competitions like{" "}
-          <strong>ACM-ICPC</strong> and <strong>Capture the Flag(CTF)</strong>.
+          <strong>HACKATHONS</strong> and <strong>Google solutions challenge</strong>.
         </p>
         <p>
-          And our students are honing their skills on websites like Topcoder,
-          SPOJ, CodeChef etc. in various languages.
+          And our students are honing their skills on websites like Microsoft Learn,
+          CodeCamp, W3 Schools etc. in various languages.
         </p>
       </div>
     </div>

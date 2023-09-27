@@ -1,31 +1,33 @@
 import React from "react";
 const About = (props) => (
   <div style={{ backgroundColor: "white" }}>
-    <h1 className="abt1">Welcome To IIIT Lucknow</h1>
+    <h1 className="abt1">Welcome To MKU THIKA</h1>
     <h3 className="abt3">(An Institute Of National Importance)</h3>
     <div className="about-text-wrapper">
       <div className="abt-text">
         <p>
-          Indian Institute of Information Technology, Lucknow (IIIT Lucknow) is
-          one of the 20 IIITs being set up by the Central Government in Public
-          Private Partnership (PPP) mode. IIIT Lucknow admitted its first batch
-          of B. Tech. in Information Technology with an intake of 50 students
-          w.e.f. the academic session 2015-16. It currently offers all the
-          amenities ,academic and non-academic to its students that can help
-          them flourish and serve the nation with all their apprehension in the
-          various fields of technology. The admission is made through central
-          counselling of candidates who qualify in JEE (Mains).
+        The MOUNT KENYA UNIVERSITY , THIKA (MKU THIKA), is part of a broader initiative by the 
+        Kenyan government to establish 100 similar institutions in partnership with private 
+        entities, following a Public-Private Partnership (PPP) model. MKU THIKA enrolled its 
+        inaugural class of B. Tech. students in Information Technology, starting from the academic
+         year 2015-16, with an initial intake of 50 students.
+        This institution presently provides a wide range of academic and non-academic facilities to
+         its students, designed to nurture their talents and prepare them to contribute to the nation's 
+         technological advancements. The admission process at MKU IT  is conducted through central counseling,
+          where candidates who have successfully passed the Kenyan equivalent of the C+ are eligible to apply.
+        In essence, MKU THIKA, from a Kenyan perspective, would be seen as one of the 20 institutions established by 
+        the Kenyan government in collaboration with private partners to promote technology education. It commenced 
+        operations in 2015-16, admitting its first cohort of 50 students in the field of Information Technology.
+       The institution offers comprehensive academic and extracurricular support to its students, aiming to 
+       empower them to contribute to Kenya's technological progress.
         </p>
         <p>
           The Institute is being set up with the financial contributions of
-          MHRD, Govt. of India, Govt. of Uttar Pradesh, and U. P. Electronics
-          Corporation Ltd. as industry partners. The mission of IIIT Lucknow is
+           Govt. of Kenya, Microsoft, and The Jitu
+          Corporation Ltd. as industry partners. The mission of MKU is
           to be a unique and world class nucleating “Apex Center of Excellence”
-          in the area of Information Technology so as to enhance India’s
-          Technological strength in Information Technology . IIIT seeks to
-          derive its strength from a linkage with sound Indian traditions of
-          centuries past, and sets out to create knowledge-based resources in
-          regional languages.
+          in the area of Information Technology so as to enhance Kenya's 
+          Technological strength in Information Technology .
         </p>
       </div>
     </div>

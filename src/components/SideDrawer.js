@@ -67,45 +67,7 @@ class SideDrawer extends React.Component {
             </ul>
           ) : null}
 
-          <li className="activeclass" onClick={this.handleDropdownStatistics}>
-            Statistics <i className="fa fa-caret-down" />
-          </li>
-          {this.state.showDropdownStatistics ? (
-            <ul className="drp-down">
-              <li
-                onClick={() => this.props.click(this.handleDropdownStatistics)}
-                className="activeclass"
-              >
-                <NavLink to="/placement-stats-2022" exact className="activeclass">
-                  Placement Stats 2022
-              </NavLink>
-              </li>
-              <li
-                onClick={() => this.props.click(this.handleDropdownStatistics)}
-                className="activeclass"
-              >
-                <NavLink to="/placement-stats-2021" exact className="activeclass">
-                  Placement Stats 2021
-              </NavLink>
-              </li>
-              <li
-                onClick={() => this.props.click(this.handleDropdownStatistics)}
-                className="activeclass"
-              >
-                <NavLink to="/placement-stats-2020" exact className="activeclass">
-                  Placement Stats 2020
-              </NavLink>
-              </li>
-              <li
-                onClick={() => this.props.click(this.handleDropdownStatistics)}
-                className="activeclass"
-              >
-                <NavLink to="/placement-stats-2019" exact className="activeclass">
-                  Placement Stats 2019
-              </NavLink>
-              </li>
-            </ul>
-          ) : null}
+          
 
 
           <li onClick={this.props.click}>

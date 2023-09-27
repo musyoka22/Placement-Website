@@ -6,15 +6,15 @@ const Procedure = props => (
       <h2>Placement Procedure</h2>
       <ul className="custom-list">
         <li>
-          The Training and Placement Office, IIITL sends invitations alongwith
+          The Training and Placement Office, MKU sends invitations alongwith
           Job Notification Form(JNF) to organizations to participate in the
           campus placements.
         </li>
         <li>
           Organization fills in the JNF containing details of the job offer (pay
           package, place of posting, allowances and other bonuses). JNF can be
-          sent by email to Training and Placement Office, IIITL (
-          <a href="mailto:placements@iiitl.ac.in">placements@iiitl.ac.in</a>
+          sent by email to Training and Placement Office, MKU (
+          <a href="mailto:placements@mku.ac.ke">placements@mku.ac.ke</a>
           ).
         </li>
         <li>
@@ -22,16 +22,16 @@ const Procedure = props => (
           students on a private group, requesting them to apply.
         </li>
         <li>
-          Training and Placement Office, IIITL allots date(s) to an organization
+          Training and Placement Office, MKU allocates date(s) to an organization
           for campus placements. The organization confirms the date(s) to
-          Training and Placement Office, IIITL.
+          Training and Placement Office, MKU.
         </li>
         <li>
           The list of the students who have applied is provided to the
           organization along with their Resumes.
         </li>
         <li>
-          Organizations come to campus on the allotted date(s) and conduct tests
+          Organizations come to campus on the allocated date(s) and conduct tests
           and/or interviews as per their recruitment process.
         </li>
         <li>
@@ -40,7 +40,7 @@ const Procedure = props => (
           day of campus visit.
         </li>
         <li>
-          Training and Placement Office, IIITL also coordinates the signing of
+          Training and Placement Office, MKU also coordinates the signing of
           offer letter by students who have been selected to ensure that they
           reach the organization/company asap.
         </li>
@@ -61,18 +61,18 @@ const Procedure = props => (
       <div className="sub-part">
         <h2>Full time job offer</h2>
         <p>
-          The selected student will join company in June 2022 as full time
+          The selected student will join company in Jan 2024 as full time
           employee.
         </p>
         <h2>Internship</h2>
         <p>
           B. Tech 3rd year students are eligible for <strong>2 months</strong>{" "}
-          summer internship The student will join the company in May/June 2022
+          summer internship The student will join the company in May/June 2024
           as an intern for a period of 2 months.
         </p>
         <p>
           B. Tech. 4th year students are eligible for <strong>6 months</strong>{" "}
-          internship. The student will join the company in January 2022 as an
+          internship. The student will join the company in January 2024 as an
           intern for a period of 6 months and complete their 8th semester
           project in the company.
         </p>
@@ -93,7 +93,7 @@ const Procedure = props => (
         <p>
           Overall CTC of a company includes joining bonus and all other perks,
           if applicable. Eligibility for a dream round company for a student
-          will be decided on the basis of overall CTC.
+          will be decided on the basis of overall Cost To Company.
         </p>
         <h2 className="ph-subheading">Job Offer for a student</h2>
         <ul className="custom-list">
