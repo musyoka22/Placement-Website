@@ -1,7 +1,7 @@
 import React from "react";
 
-import AmitGomi from "../assets/alumni/amitgomi.png";
-import Suryansh from "../assets/alumni/suryansh.png";
+import Alex from "../assets/team22/alex.jpeg";
+import James from "../assets/team22/james.jpeg";
 import NishthaPic from "../assets/alumni/nishtha.jpg";
 import DevanshooPic from "../assets/alumni/devanshoo.jpg";
 import TarunSinghal from "../assets/alumni/tarun.png";
@@ -40,25 +40,25 @@ const card = (props) => {
           <div className="placement-coordinators">
             <div className="placement-coordinators-wrapper">
               <AlumniCard
-                img={AmitGomi}
-                alt="Amit Gomi"
-                name="Amit Gomi"
-                message="It was a great time, spent in IIITL. It has very wonderful faculty and they are very cooperative. The relation between faculty and student is very cordial, which gave me an opportunity to excel further."
+                img={Alex}
+                alt="Alex"
+                name="Alex"
+                message="It was a great time, spent in MKU. It has very wonderful faculty and they are very cooperative. The relation between faculty and student is very cordial, which gave me an opportunity to excel further."
                 company="Google"
               />
               <AlumniCard
-                img={Suryansh}
-                alt="Suryansh Tiwari"
+                img={James}
+                alt="James Musyoka"
                 name="Suryansh Tiwari"
-                message="IIITL has provided me a wonderful environment and opportunity to learn and grow myself academically as well as to secure a place in the corporate with its best placement services."
-                company="Flipkart"
+                message="MKU has provided me a wonderful environment and opportunity to learn and grow myself academically as well as to secure a place in the corporate with its best placement services."
+                company="Safaricom"
               />
               <AlumniCard
                 img={DevanshooPic}
                 alt="Devanshoo Udhani"
                 name="Devanshoo Udhani"
-                message="It gives me great pleasure in sharing my success after joining IIITL. It has successfully accomplished its promises and objectives in providing quality education and overall development of all its students."
-                company="Acko"
+                message="It gives me great pleasure in sharing my success after joining MKU. It has successfully accomplished its promises and objectives in providing quality education and overall development of all its students."
+                company="Google"
               />
             </div>
           </div>
@@ -68,22 +68,22 @@ const card = (props) => {
                 img={TarunSinghal}
                 alt="Tarun Singhal"
                 name="Tarun Singhal"
-                message="It was a great time, spent in IIITL. It has very wonderful faculty and they are very cooperative. The relation between faculty and student is very cordial, which gave me an opportunity to excel further."
+                message="It was a great time, spent in MKU. It has very wonderful faculty and they are very cooperative. The relation between faculty and student is very cordial, which gave me an opportunity to excel further."
                 company="Mindtickle"
               />
               <AlumniCard
                 img={NishthaPic}
                 alt="Nishtha Sharma"
                 name="Nishtha Sharma"
-                message="IIITL has provided me a wonderful environment and opportunity to learn and grow myself academically as well as to secure a place in the corporate with its best placement services."
+                message="MKU has provided me a wonderful environment and opportunity to learn and grow myself academically as well as to secure a place in the corporate with its best placement services."
                 company="LinkedIn"
               />
               <AlumniCard
                 img={RadhikaChandak}
                 alt="Radhika Chandak"
                 name="Radhika Chandak"
-                message="Life in IIITL was nothing less than a roller coaster ride, full of ups and downs one can imagine. But throughout the journey I have learned a lot. It have provided me with some great opportunities."
-                company="Zenefits"
+                message="Life in MKU was nothing less than a roller coaster ride, full of ups and downs one can imagine. But throughout the journey I have learned a lot. It have provided me with some great opportunities."
+                company="Github"
               />
             </div>
           </div>
@@ -93,22 +93,22 @@ const card = (props) => {
                 img={ShubhamUpadhyay}
                 alt="Shubham Upadhyay"
                 name="Shubham Upadhyay"
-                message="It’s been fortunate to be a part of the IIITL where I got the platform to enrich my skills and henceforth a bright light towards my life, with the support and endeavor of my faculty members all the way with my family."
-                company="Bounce"
+                message="It’s been fortunate to be a part of the MKU where I got the platform to enrich my skills and henceforth a bright light towards my life, with the support and endeavor of my faculty members all the way with my family."
+                company="Apprentice"
               />
               <AlumniCard
                 img={SahilGarg}
                 alt="Sahil Garg"
                 name="Sahil Garg"
-                message="I really feel proud on saying that I have completed my graduation from IIITL. The thing i admire the most is the support from everyone at every step."
+                message="I really feel proud on saying that I have completed my graduation from MKU. The thing i admire the most is the support from everyone at every step."
                 company="Amazon"
               />
               <AlumniCard
                 img={NishantMalik}
                 alt="Nishant Malik"
                 name="Nishant Malik"
-                message="Entering IIITL is one of the best things to happen in my life, both on personal and professional front. It has inculcated a lot of intra and interpersonal skills which is one of my key learning by being part of the IIITL family."
-                company="Sabre"
+                message="Entering MKU is one of the best things to happen in my life, both on personal and professional front. It has inculcated a lot of intra and interpersonal skills which is one of my key learning by being part of the IIITL family."
+                company="Github"
               />
             </div>
           </div>
@@ -118,14 +118,14 @@ const card = (props) => {
                 img={AkshatJain}
                 alt="Akshat Jain"
                 name="Akshat Jain"
-                message="IIITL is such an institution that not only inspire you but also teaches what your end goal is."
+                message="MKU is such an institution that not only inspire you but also teaches what your end goal is."
                 company="Microsoft"
               />
               <AlumniCard
                 img={ShivanshPandey}
                 alt="Shivansh Pandey"
                 name="Shivansh Pandey"
-                message="To be a part of IIITL, in itself is no less than an achievement. Day 1 to the last day of my college I have found a consistent growth in myself."
+                message="To be a part of MKU, in itself is no less than an achievement. Day 1 to the last day of my college I have found a consistent growth in myself."
                 company="Expedia"
               />
             </div>

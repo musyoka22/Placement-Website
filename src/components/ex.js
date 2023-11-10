@@ -1,13 +1,13 @@
 import React from "react";
-import vks from "../assets/images/vks_1.jpg";
-import director from "../assets/images/director.jpg";
+import alex from "../assets/team22/alex.jpeg";
+import andrew from "../assets/team22/andrew.jpeg";
 import { NavLink } from "react-router-dom";
 
 const Ex = props => (
   <div className="example">
     <div className="blog-card">
       <div className="meta">
-        <div className="photo" style={{ backgroundImage: `url(${director})` }} />
+        <div className="photo" style={{ backgroundImage: `url(${andrew})` }} />
         <ul className="details">
           <li className="author">Prof Githu Muchiri</li>
           <li className="date">Director</li>
@@ -36,7 +36,7 @@ const Ex = props => (
     </div>
     <div className="blog-card alt">
       <div className="meta">
-        <div className="photo" style={{ backgroundImage: `url(${vks})` }} />
+        <div className="photo" style={{ backgroundImage: `url(${alex})` }} />
         <ul className="details">
           <li className="author">Dr. John Arop</li>
           <li className="date">Training and Placement Officer</li>
